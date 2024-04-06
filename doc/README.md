@@ -1,0 +1,1 @@
+The document directory contains related images.
